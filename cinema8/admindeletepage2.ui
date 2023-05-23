@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>admindeletepage2</class>
+ <widget class="QWidget" name="admindeletepage2">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>712</width>
+    <height>318</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-color: rgb(0, 0, 0);
+font: 8pt &quot;Cooper Black&quot;;</string>
+  </property>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
